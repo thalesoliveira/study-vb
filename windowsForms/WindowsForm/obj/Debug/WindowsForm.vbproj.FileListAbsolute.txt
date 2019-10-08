@@ -1,0 +1,11 @@
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe.config
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\bin\Debug\WindowsForm.pdb
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\bin\Debug\WindowsForm.xml
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\obj\Debug\WindowsForm.vbprojResolveAssemblyReference.cache
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Form1.resources
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Resources.resources
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\obj\Debug\WindowsForm.vbproj.GenerateResource.Cache
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\obj\Debug\WindowsForm.exe
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\obj\Debug\WindowsForm.xml
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\obj\Debug\WindowsForm.pdb
