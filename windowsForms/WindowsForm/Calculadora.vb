@@ -14,7 +14,7 @@
             MsgBox("Ocorreu um erro: " & ex.Message)
         End Try
 
-        txtResultadoSoma.Text = Soma(valor1, valor2)
+        txtResultadoSoma.Text = regras.Soma(valor1, valor2)
     End Sub
 
     Private Sub Calculadora_Load(sender As Object, e As EventArgs) Handles MyBase.Load
@@ -45,7 +45,7 @@
             MsgBox("Ocorreu um erro: " & ex.Message)
         End Try
 
-        txtResultadoSubtracao.Text = Subtracao(valor1, valor2)
+        txtResultadoSubtracao.Text = regras.Subtracao(valor1, valor2)
     End Sub
 
     Private Sub btnIgualMultiplicacao_Click(sender As Object, e As EventArgs) Handles btnIgualMultiplicacao.Click
@@ -59,20 +59,20 @@
             MsgBox("Ocorreu um erro: " & ex.Message)
         End Try
 
-        txtResultadoMultiplicacao.Text = Multiplicacao(valor1, valor2)
+        txtResultadoMultiplicacao.Text = regras.Multiplicacao(valor1, valor2)
     End Sub
 
     Private Sub btnIgualDivisao_Click(sender As Object, e As EventArgs) Handles btnIgualDivisao.Click
-        Dim valor1 As Integer = 0
-        Dim valor2 As Integer = 0
+        Dim valor1 As Single = 0
+        Dim valor2 As Single = 0
 
         Try
-            valor1 = CInt(txtDiv1.Text)
-            valor2 = CInt(txtDiv2.Text)
+            valor1 = CSng(txtDiv1.Text)
+            valor2 = CSng(txtDiv2.Text)
         Catch ex As Exception
             MsgBox("Ocorreu um erro: " & ex.Message)
         End Try
 
-        txtResultadoDivisao.Text = Divisao(valor1, valor2)
+        txtResultadoDivisao.Text = regras.Divisao(valor1, valor2)
     End Sub
 End Class
