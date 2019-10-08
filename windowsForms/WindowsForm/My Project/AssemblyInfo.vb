@@ -8,11 +8,11 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("WindowsForm")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("Microsoft")>
-<Assembly: AssemblyProduct("WindowsForm")>
-<Assembly: AssemblyCopyright("Copyright © Microsoft 2019")>
+<Assembly: AssemblyTitle("Calculadora")>
+<Assembly: AssemblyDescription("Exercicio sobre windows forms")>
+<Assembly: AssemblyCompany("Oliveira")>
+<Assembly: AssemblyProduct("WindowsForm Calculadora")>
+<Assembly: AssemblyCopyright("Copyright © Oliveira 2019")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
