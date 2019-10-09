@@ -21,3 +21,16 @@ D:\projetos git\marcoratti\windowsForms\WindowsForm\obj\Debug\Calculadora.exe
 D:\projetos git\marcoratti\windowsForms\WindowsForm\obj\Debug\Calculadora.xml
 D:\projetos git\marcoratti\windowsForms\WindowsForm\obj\Debug\Calculadora.pdb
 D:\projetos git\marcoratti\windowsForms\WindowsForm\obj\Debug\WindowsForm.Calculadora.resources
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\bin\Debug\Calculadora.exe.config
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\Calculadora.exe
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\Calculadora.xml
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\Calculadora.pdb
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\bin\Debug\Calculadora.exe
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\bin\Debug\Calculadora.pdb
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\bin\Debug\Calculadora.xml
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\WindowsForm.vbprojResolveAssemblyReference.cache
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\WindowsForm.Calculadora.resources
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\WindowsForm.Resources.resources
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\WindowsForm.SplashScreen1.resources
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\WindowsForm.Tabuada.resources
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\WindowsForm.vbproj.GenerateResource.Cache

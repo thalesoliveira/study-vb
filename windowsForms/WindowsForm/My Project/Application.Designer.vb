@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.WindowsForm.Calculadora
+            Me.MainForm = Global.WindowsForm.Tabuada
         End Sub
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
