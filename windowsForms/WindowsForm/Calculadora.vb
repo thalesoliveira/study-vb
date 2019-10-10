@@ -1,7 +1,4 @@
 ﻿Public Class Calculadora
-    Private Sub TextBox2_TextChanged(sender As Object, e As EventArgs) Handles txtSoma2.TextChanged, txtDiv2.TextChanged, txtMult2.TextChanged, txtSub2.TextChanged
-
-    End Sub
 
     Private Sub btnIgualSoma_Click(sender As Object, e As EventArgs) Handles btnIgualSoma.Click
         Dim valor1 As Integer = 0

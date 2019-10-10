@@ -32,56 +32,62 @@ Partial Class Tabuada
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(22, 29)
+        Me.Label1.Location = New System.Drawing.Point(29, 36)
+        Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(127, 13)
+        Me.Label1.Size = New System.Drawing.Size(160, 17)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "INFORME UM NÚMERO"
         '
         'btnTabuada
         '
-        Me.btnTabuada.Location = New System.Drawing.Point(25, 92)
+        Me.btnTabuada.Location = New System.Drawing.Point(33, 113)
+        Me.btnTabuada.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnTabuada.Name = "btnTabuada"
-        Me.btnTabuada.Size = New System.Drawing.Size(124, 34)
+        Me.btnTabuada.Size = New System.Drawing.Size(165, 42)
         Me.btnTabuada.TabIndex = 1
         Me.btnTabuada.Text = "Gerar Tabuada"
         Me.btnTabuada.UseVisualStyleBackColor = True
         '
         'txtNumero
         '
-        Me.txtNumero.Location = New System.Drawing.Point(25, 55)
+        Me.txtNumero.Location = New System.Drawing.Point(33, 68)
+        Me.txtNumero.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtNumero.Name = "txtNumero"
-        Me.txtNumero.Size = New System.Drawing.Size(124, 20)
+        Me.txtNumero.Size = New System.Drawing.Size(164, 22)
         Me.txtNumero.TabIndex = 2
         '
         'txtCidades
         '
-        Me.txtCidades.Location = New System.Drawing.Point(211, 72)
+        Me.txtCidades.Location = New System.Drawing.Point(281, 89)
+        Me.txtCidades.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtCidades.Multiline = True
         Me.txtCidades.Name = "txtCidades"
-        Me.txtCidades.Size = New System.Drawing.Size(188, 257)
+        Me.txtCidades.Size = New System.Drawing.Size(249, 315)
         Me.txtCidades.TabIndex = 3
         '
         'btnArray
         '
-        Me.btnArray.Location = New System.Drawing.Point(211, 29)
+        Me.btnArray.Location = New System.Drawing.Point(281, 36)
+        Me.btnArray.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnArray.Name = "btnArray"
-        Me.btnArray.Size = New System.Drawing.Size(188, 37)
+        Me.btnArray.Size = New System.Drawing.Size(251, 46)
         Me.btnArray.TabIndex = 4
         Me.btnArray.Text = "Gerando Array"
         Me.btnArray.UseVisualStyleBackColor = True
         '
         'Tabuada
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ActiveCaption
-        Me.ClientSize = New System.Drawing.Size(426, 341)
+        Me.ClientSize = New System.Drawing.Size(568, 420)
         Me.Controls.Add(Me.btnArray)
         Me.Controls.Add(Me.txtCidades)
         Me.Controls.Add(Me.txtNumero)
         Me.Controls.Add(Me.btnTabuada)
         Me.Controls.Add(Me.Label1)
+        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.Name = "Tabuada"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Tabuada"
