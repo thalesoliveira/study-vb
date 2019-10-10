@@ -32,19 +32,19 @@
     End Property
 
 
-    Public Function Soma(ByVal val1 As Integer, ByVal val2 As Integer) As Integer
+    Public Shared Function Soma(ByVal val1 As Integer, ByVal val2 As Integer) As Integer
         Return val1 + val2
     End Function
 
-    Public Function Subtracao(ByVal val1 As Integer, ByVal val2 As Integer) As Integer
+    Public Shared Function Subtracao(ByVal val1 As Integer, ByVal val2 As Integer) As Integer
         Return val1 - val2
     End Function
 
-    Public Function Multiplicacao(ByVal val1 As Integer, ByVal val2 As Integer) As Integer
+    Public Shared Function Multiplicacao(ByVal val1 As Integer, ByVal val2 As Integer) As Integer
         Return val1 * val2
     End Function
 
-    Public Function Divisao(ByVal val1 As Single, ByVal val2 As Single) As Single
+    Public Shared Function Divisao(ByVal val1 As Single, ByVal val2 As Single) As Single
         Return (val1 / val2)
     End Function
 
