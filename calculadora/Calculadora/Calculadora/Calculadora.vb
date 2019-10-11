@@ -1,5 +1,7 @@
 ﻿Public Class Calculadora
-    Dim calc As Calculos
+    'Dim calc As Calculos
+
+    Dim calc As CalculadoraV2
 
     Private Sub Calculadora_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Const COPYRIGHT As String = "Calculadora"
@@ -17,8 +19,8 @@
             MsgBox("Ocorreu um erro: " & ex.Message)
         End Try
 
-        calc = New Calculos
-        resultSoma.Text = calc.Soma(val1, val2)
+        calc = New CalculadoraV2
+        resultSoma.Text = calc.Somar(val1, val2)
     End Sub
 
     Private Sub btnResultSub_Click(sender As Object, e As EventArgs) Handles btnResultSub.Click
@@ -32,8 +34,8 @@
             MsgBox("Ocorreu um erro: " & ex.Message)
         End Try
 
-        calc = New Calculos
-        resultSub.Text = calc.Subtracao(val1, val2)
+        calc = New CalculadoraV2
+        resultSub.Text = calc.Subtrair(val1, val2)
     End Sub
 
     Private Sub btnResultMulti_Click(sender As Object, e As EventArgs) Handles btnResultMulti.Click
@@ -47,8 +49,8 @@
             MsgBox("Ocorreu um erro: " & ex.Message)
         End Try
 
-        calc = New Calculos
-        resultMulti.Text = calc.Multiplicacao(val1, val2)
+        calc = New CalculadoraV2
+        resultMulti.Text = calc.Multiplicar(val1, val2)
     End Sub
 
     Private Sub btnResultDiv_Click(sender As Object, e As EventArgs) Handles btnResultDiv.Click
@@ -62,8 +64,8 @@
             MsgBox("Ocorreu um erro: " & ex.Message)
         End Try
 
-        calc = New Calculos
-        resultDiv.Text = calc.Divisao(val1, val2)
+        calc = New CalculadoraV2
+        resultDiv.Text = calc.Dividir(val1, val2)
     End Sub
 
     Private Sub valSoma1_KeyPress(sender As Object, e As KeyPressEventArgs) Handles valSoma1.KeyPress

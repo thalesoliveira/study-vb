@@ -86,6 +86,8 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CalculadoraV2.vb" />
+    <Compile Include="Calcular.vb" />
     <Compile Include="Calculadora.vb">
       <SubType>Form</SubType>
     </Compile>
