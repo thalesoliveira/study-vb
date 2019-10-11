@@ -1,4 +1,7 @@
-﻿Public Class Calculos
+﻿Imports Calculadora
+
+Public Class Calculos
+    Implements IOperacoes
 
     Private _valor1 As Integer
     Private _valor2 As Integer
@@ -32,19 +35,19 @@
     End Property
 
 
-    Public Shared Function Soma(ByVal val1 As Integer, ByVal val2 As Integer) As Integer
+    Public Function Soma(ByVal val1 As Integer, ByVal val2 As Integer) As Integer Implements IOperacoes.Soma
         Return val1 + val2
     End Function
 
-    Public Shared Function Subtracao(ByVal val1 As Integer, ByVal val2 As Integer) As Integer
+    Public Function Subtracao(ByVal val1 As Integer, ByVal val2 As Integer) As Integer Implements IOperacoes.Subtracao
         Return val1 - val2
     End Function
 
-    Public Shared Function Multiplicacao(ByVal val1 As Integer, ByVal val2 As Integer) As Integer
+    Public Function Multiplicacao(ByVal val1 As Integer, ByVal val2 As Integer) As Integer Implements IOperacoes.Multiplicacao
         Return val1 * val2
     End Function
 
-    Public Shared Function Divisao(ByVal val1 As Single, ByVal val2 As Single) As Single
+    Public Function Divisao(ByVal val1 As Single, ByVal val2 As Single) As Single Implements IOperacoes.Divisao
         Return (val1 / val2)
     End Function
 

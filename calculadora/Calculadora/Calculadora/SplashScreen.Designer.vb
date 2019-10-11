@@ -1,6 +1,7 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
 Partial Class SplashScreen
-    Inherits System.Windows.Forms.Form
+    'Inherits System.Windows.Forms.Form
+    Inherits MetroFramework.Forms.MetroForm
 
     'Form overrides dispose to clean up the component list.
     <System.Diagnostics.DebuggerNonUserCode()> _
@@ -48,11 +49,11 @@ Partial Class SplashScreen
         Me.MainLayoutPanel.Controls.Add(Me.DetailsLayoutPanel, 1, 1)
         Me.MainLayoutPanel.Controls.Add(Me.Calculadora, 1, 0)
         Me.MainLayoutPanel.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.MainLayoutPanel.Location = New System.Drawing.Point(0, 0)
+        Me.MainLayoutPanel.Location = New System.Drawing.Point(20, 60)
         Me.MainLayoutPanel.Name = "MainLayoutPanel"
         Me.MainLayoutPanel.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 218.0!))
         Me.MainLayoutPanel.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 38.0!))
-        Me.MainLayoutPanel.Size = New System.Drawing.Size(496, 303)
+        Me.MainLayoutPanel.Size = New System.Drawing.Size(1033, 532)
         Me.MainLayoutPanel.TabIndex = 0
         '
         'DetailsLayoutPanel
@@ -64,7 +65,7 @@ Partial Class SplashScreen
         Me.DetailsLayoutPanel.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 142.0!))
         Me.DetailsLayoutPanel.Controls.Add(Me.Version, 0, 0)
         Me.DetailsLayoutPanel.Controls.Add(Me.Copyright, 0, 1)
-        Me.DetailsLayoutPanel.Location = New System.Drawing.Point(246, 221)
+        Me.DetailsLayoutPanel.Location = New System.Drawing.Point(514, 335)
         Me.DetailsLayoutPanel.Name = "DetailsLayoutPanel"
         Me.DetailsLayoutPanel.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.0!))
         Me.DetailsLayoutPanel.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.0!))
@@ -99,7 +100,7 @@ Partial Class SplashScreen
         Me.Calculadora.BackColor = System.Drawing.Color.Transparent
         Me.Calculadora.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Calculadora.ForeColor = System.Drawing.SystemColors.ButtonHighlight
-        Me.Calculadora.Location = New System.Drawing.Point(246, 3)
+        Me.Calculadora.Location = New System.Drawing.Point(514, 3)
         Me.Calculadora.Name = "Calculadora"
         Me.Calculadora.Size = New System.Drawing.Size(247, 212)
         Me.Calculadora.TabIndex = 0
@@ -110,7 +111,7 @@ Partial Class SplashScreen
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(496, 303)
+        Me.ClientSize = New System.Drawing.Size(1073, 612)
         Me.ControlBox = False
         Me.Controls.Add(Me.MainLayoutPanel)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
@@ -118,7 +119,8 @@ Partial Class SplashScreen
         Me.MinimizeBox = False
         Me.Name = "SplashScreen"
         Me.ShowInTaskbar = False
-        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.Style = MetroFramework.MetroColorStyle.Green
+        Me.Theme = MetroFramework.MetroThemeStyle.Dark
         Me.MainLayoutPanel.ResumeLayout(False)
         Me.DetailsLayoutPanel.ResumeLayout(False)
         Me.ResumeLayout(False)

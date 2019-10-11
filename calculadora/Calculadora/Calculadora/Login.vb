@@ -1,4 +1,6 @@
-﻿Public Class Login
+﻿
+Public Class Login
+    Inherits MetroFramework.Forms.MetroForm
 
     ' TODO: Insert code to perform custom authentication using the provided username and password 
     ' (See http://go.microsoft.com/fwlink/?LinkId=35339).  
@@ -8,20 +10,18 @@
     ' Subsequently, My.User will return identity information encapsulated in the CustomPrincipal object
     ' such as the username, display name, etc.
 
-    Private Sub OK_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles OK.Click
+
+    Private Sub OK_Click_1(sender As Object, e As EventArgs) Handles OK.Click
         If txtUsuario.Text = "usuario" And txtSenha.Text = "1234" Then
             My.Forms.Login.Hide()
             My.Forms.Calculadora.Show()
         Else
-            MsgBox("Usuário/Senha inválidos!!")
+            MetroFramework.MetroMessageBox.Show(Me, "Usuário/Senha inválidos!!", "Message", MessageBoxButtons.OK, MessageBoxIcon.Asterisk)
         End If
     End Sub
 
-    Private Sub Cancel_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Cancel.Click
+    Private Sub Cancel_Click_1(sender As Object, e As EventArgs) Handles Cancel.Click
         Me.Close()
     End Sub
 
-    Private Sub Login_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
-    End Sub
 End Class

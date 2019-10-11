@@ -11,3 +11,6 @@ D:\projetos git\marcoratti\study-vb.net\calculadora\Calculadora\Calculadora\obj\
 D:\projetos git\marcoratti\study-vb.net\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
 D:\projetos git\marcoratti\study-vb.net\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.SplashScreen.resources
 D:\projetos git\marcoratti\study-vb.net\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Login.resources
+D:\projetos git\marcoratti\study-vb.net\calculadora\Calculadora\Calculadora\bin\Debug\MetroFramework.dll
+D:\projetos git\marcoratti\study-vb.net\calculadora\Calculadora\Calculadora\bin\Debug\MetroFramework.Fonts.dll
+D:\projetos git\marcoratti\study-vb.net\calculadora\Calculadora\Calculadora\bin\Debug\MetroFramework.Design.dll

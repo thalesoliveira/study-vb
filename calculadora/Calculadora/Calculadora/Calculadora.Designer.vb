@@ -1,6 +1,8 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
 Partial Class Calculadora
-    Inherits System.Windows.Forms.Form
+    'Inherits System.Windows.Forms.Form
+    Inherits MetroFramework.Forms.MetroForm
+
 
     'Form overrides dispose to clean up the component list.
     <System.Diagnostics.DebuggerNonUserCode()> _
@@ -56,14 +58,14 @@ Partial Class Calculadora
         '
         'grpSoma
         '
-        Me.grpSoma.BackColor = System.Drawing.SystemColors.ActiveCaption
+        Me.grpSoma.BackColor = System.Drawing.SystemColors.MenuBar
         Me.grpSoma.Controls.Add(Me.lblSoma)
         Me.grpSoma.Controls.Add(Me.btnResultSoma)
         Me.grpSoma.Controls.Add(Me.resultSoma)
         Me.grpSoma.Controls.Add(Me.valSoma2)
         Me.grpSoma.Controls.Add(Me.valSoma1)
         Me.grpSoma.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.grpSoma.Location = New System.Drawing.Point(15, 44)
+        Me.grpSoma.Location = New System.Drawing.Point(15, 78)
         Me.grpSoma.Name = "grpSoma"
         Me.grpSoma.Size = New System.Drawing.Size(440, 100)
         Me.grpSoma.TabIndex = 0
@@ -97,7 +99,7 @@ Partial Class Calculadora
         Me.resultSoma.Location = New System.Drawing.Point(326, 34)
         Me.resultSoma.Name = "resultSoma"
         Me.resultSoma.Size = New System.Drawing.Size(100, 22)
-        Me.resultSoma.TabIndex = 2
+        Me.resultSoma.TabIndex = 4
         '
         'valSoma2
         '
@@ -105,7 +107,7 @@ Partial Class Calculadora
         Me.valSoma2.Location = New System.Drawing.Point(137, 34)
         Me.valSoma2.Name = "valSoma2"
         Me.valSoma2.Size = New System.Drawing.Size(100, 22)
-        Me.valSoma2.TabIndex = 1
+        Me.valSoma2.TabIndex = 2
         '
         'valSoma1
         '
@@ -113,18 +115,18 @@ Partial Class Calculadora
         Me.valSoma1.Location = New System.Drawing.Point(7, 34)
         Me.valSoma1.Name = "valSoma1"
         Me.valSoma1.Size = New System.Drawing.Size(100, 22)
-        Me.valSoma1.TabIndex = 0
+        Me.valSoma1.TabIndex = 1
         '
         'grpSub
         '
-        Me.grpSub.BackColor = System.Drawing.SystemColors.ActiveCaption
+        Me.grpSub.BackColor = System.Drawing.SystemColors.MenuBar
         Me.grpSub.Controls.Add(Me.lblSub)
         Me.grpSub.Controls.Add(Me.btnResultSub)
         Me.grpSub.Controls.Add(Me.resultSub)
         Me.grpSub.Controls.Add(Me.valSub2)
         Me.grpSub.Controls.Add(Me.valSub1)
         Me.grpSub.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.grpSub.Location = New System.Drawing.Point(15, 162)
+        Me.grpSub.Location = New System.Drawing.Point(15, 194)
         Me.grpSub.Name = "grpSub"
         Me.grpSub.Size = New System.Drawing.Size(440, 100)
         Me.grpSub.TabIndex = 1
@@ -147,7 +149,7 @@ Partial Class Calculadora
         Me.btnResultSub.Location = New System.Drawing.Point(243, 40)
         Me.btnResultSub.Name = "btnResultSub"
         Me.btnResultSub.Size = New System.Drawing.Size(75, 23)
-        Me.btnResultSub.TabIndex = 3
+        Me.btnResultSub.TabIndex = 7
         Me.btnResultSub.Text = "="
         Me.btnResultSub.UseVisualStyleBackColor = True
         '
@@ -158,7 +160,7 @@ Partial Class Calculadora
         Me.resultSub.Location = New System.Drawing.Point(326, 41)
         Me.resultSub.Name = "resultSub"
         Me.resultSub.Size = New System.Drawing.Size(100, 22)
-        Me.resultSub.TabIndex = 2
+        Me.resultSub.TabIndex = 8
         '
         'valSub2
         '
@@ -166,7 +168,7 @@ Partial Class Calculadora
         Me.valSub2.Location = New System.Drawing.Point(137, 41)
         Me.valSub2.Name = "valSub2"
         Me.valSub2.Size = New System.Drawing.Size(100, 22)
-        Me.valSub2.TabIndex = 1
+        Me.valSub2.TabIndex = 6
         '
         'valSub1
         '
@@ -174,18 +176,18 @@ Partial Class Calculadora
         Me.valSub1.Location = New System.Drawing.Point(7, 41)
         Me.valSub1.Name = "valSub1"
         Me.valSub1.Size = New System.Drawing.Size(100, 22)
-        Me.valSub1.TabIndex = 0
+        Me.valSub1.TabIndex = 5
         '
         'grpMulti
         '
-        Me.grpMulti.BackColor = System.Drawing.SystemColors.ActiveCaption
+        Me.grpMulti.BackColor = System.Drawing.SystemColors.MenuBar
         Me.grpMulti.Controls.Add(Me.lblMulti)
         Me.grpMulti.Controls.Add(Me.btnResultMulti)
         Me.grpMulti.Controls.Add(Me.valMult2)
         Me.grpMulti.Controls.Add(Me.resultMulti)
         Me.grpMulti.Controls.Add(Me.valMult1)
         Me.grpMulti.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.grpMulti.Location = New System.Drawing.Point(15, 283)
+        Me.grpMulti.Location = New System.Drawing.Point(15, 312)
         Me.grpMulti.Name = "grpMulti"
         Me.grpMulti.Size = New System.Drawing.Size(440, 100)
         Me.grpMulti.TabIndex = 2
@@ -208,7 +210,7 @@ Partial Class Calculadora
         Me.btnResultMulti.Location = New System.Drawing.Point(245, 35)
         Me.btnResultMulti.Name = "btnResultMulti"
         Me.btnResultMulti.Size = New System.Drawing.Size(75, 23)
-        Me.btnResultMulti.TabIndex = 3
+        Me.btnResultMulti.TabIndex = 12
         Me.btnResultMulti.Text = "="
         Me.btnResultMulti.UseVisualStyleBackColor = True
         '
@@ -218,7 +220,7 @@ Partial Class Calculadora
         Me.valMult2.Location = New System.Drawing.Point(139, 35)
         Me.valMult2.Name = "valMult2"
         Me.valMult2.Size = New System.Drawing.Size(100, 22)
-        Me.valMult2.TabIndex = 2
+        Me.valMult2.TabIndex = 11
         '
         'resultMulti
         '
@@ -227,7 +229,7 @@ Partial Class Calculadora
         Me.resultMulti.Location = New System.Drawing.Point(326, 35)
         Me.resultMulti.Name = "resultMulti"
         Me.resultMulti.Size = New System.Drawing.Size(100, 22)
-        Me.resultMulti.TabIndex = 1
+        Me.resultMulti.TabIndex = 13
         '
         'valMult1
         '
@@ -235,18 +237,18 @@ Partial Class Calculadora
         Me.valMult1.Location = New System.Drawing.Point(7, 35)
         Me.valMult1.Name = "valMult1"
         Me.valMult1.Size = New System.Drawing.Size(100, 22)
-        Me.valMult1.TabIndex = 0
+        Me.valMult1.TabIndex = 10
         '
         'grpDiv
         '
-        Me.grpDiv.BackColor = System.Drawing.SystemColors.ActiveCaption
+        Me.grpDiv.BackColor = System.Drawing.SystemColors.MenuBar
         Me.grpDiv.Controls.Add(Me.lblDiv)
         Me.grpDiv.Controls.Add(Me.btnResultDiv)
         Me.grpDiv.Controls.Add(Me.resultDiv)
         Me.grpDiv.Controls.Add(Me.valDiv2)
         Me.grpDiv.Controls.Add(Me.valDiv1)
         Me.grpDiv.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.grpDiv.Location = New System.Drawing.Point(15, 407)
+        Me.grpDiv.Location = New System.Drawing.Point(15, 427)
         Me.grpDiv.Name = "grpDiv"
         Me.grpDiv.Size = New System.Drawing.Size(440, 100)
         Me.grpDiv.TabIndex = 3
@@ -269,7 +271,7 @@ Partial Class Calculadora
         Me.btnResultDiv.Location = New System.Drawing.Point(245, 35)
         Me.btnResultDiv.Name = "btnResultDiv"
         Me.btnResultDiv.Size = New System.Drawing.Size(75, 23)
-        Me.btnResultDiv.TabIndex = 3
+        Me.btnResultDiv.TabIndex = 16
         Me.btnResultDiv.Text = "="
         Me.btnResultDiv.UseVisualStyleBackColor = True
         '
@@ -280,7 +282,7 @@ Partial Class Calculadora
         Me.resultDiv.Location = New System.Drawing.Point(326, 35)
         Me.resultDiv.Name = "resultDiv"
         Me.resultDiv.Size = New System.Drawing.Size(100, 22)
-        Me.resultDiv.TabIndex = 2
+        Me.resultDiv.TabIndex = 17
         '
         'valDiv2
         '
@@ -288,7 +290,7 @@ Partial Class Calculadora
         Me.valDiv2.Location = New System.Drawing.Point(137, 35)
         Me.valDiv2.Name = "valDiv2"
         Me.valDiv2.Size = New System.Drawing.Size(100, 22)
-        Me.valDiv2.TabIndex = 1
+        Me.valDiv2.TabIndex = 15
         '
         'valDiv1
         '
@@ -296,7 +298,7 @@ Partial Class Calculadora
         Me.valDiv1.Location = New System.Drawing.Point(7, 34)
         Me.valDiv1.Name = "valDiv1"
         Me.valDiv1.Size = New System.Drawing.Size(100, 22)
-        Me.valDiv1.TabIndex = 0
+        Me.valDiv1.TabIndex = 14
         '
         'lblAviso
         '
@@ -312,7 +314,7 @@ Partial Class Calculadora
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(470, 567)
+        Me.ClientSize = New System.Drawing.Size(468, 589)
         Me.Controls.Add(Me.lblAviso)
         Me.Controls.Add(Me.grpDiv)
         Me.Controls.Add(Me.grpMulti)
@@ -320,7 +322,7 @@ Partial Class Calculadora
         Me.Controls.Add(Me.grpSoma)
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "Calculadora"
-        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.Style = MetroFramework.MetroColorStyle.Green
         Me.Text = "Calculator"
         Me.grpSoma.ResumeLayout(False)
         Me.grpSoma.PerformLayout()
