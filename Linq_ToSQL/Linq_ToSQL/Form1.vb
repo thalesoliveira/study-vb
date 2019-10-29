@@ -5,21 +5,23 @@ Public Class Form1
     Dim dc As New EstoqueDataContext
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        gdvProdutos.DataSource = exibirProdutos()
+        exibirProdutos()
     End Sub
 
     Private Sub btnLimpar_Click(sender As Object, e As EventArgs) Handles btnLimpar.Click
-
+        id.Text = ""
+        txt_nome.Text = ""
+        txt_preco.Text = ""
     End Sub
 
     Private Sub btnExibir_Click(sender As Object, e As EventArgs) Handles btnExibir.Click
-        gdvProdutos.DataSource = exibirProdutos()
+        exibirProdutos()
     End Sub
 
-    Private Function exibirProdutos() As Table(Of Produto)
+    Private Sub exibirProdutos()
         Dim produto As Table(Of Produto) = dc.GetTable(Of Produto)()
-        Return produto
-    End Function
+        gdvProdutos.DataSource = produto
+    End Sub
 
     Private Sub btnNovo_Click(sender As Object, e As EventArgs) Handles btnNovo.Click
 
@@ -59,4 +61,43 @@ Public Class Form1
         End If
 
     End Sub
+
+    Private Sub btnExcluir_Click(sender As Object, e As EventArgs) Handles btnExcluir.Click
+
+
+        Dim codigo As Integer = Int32.Parse(id.Text)
+        Dim produto As Table(Of Produto) = dc.GetTable(Of Produto)()
+        Dim prd = produto.SingleOrDefault(Function(p) p.Id = codigo)
+
+
+        If Not prd Is Nothing Then
+            produto.DeleteOnSubmit(prd)
+            dc.SubmitChanges()
+        Else
+            MsgBox("Produto não localizado")
+        End If
+
+
+    End Sub
+
+    Private Sub btnPesquisar_Click(sender As Object, e As EventArgs) Handles btnPesquisar.Click
+        pesquisarProduto(Int32.Parse(id.Text))
+    End Sub
+
+    Private Sub pesquisarProduto(ByVal codigo As Integer)
+
+        Dim produto As Table(Of Produto) = dc.GetTable(Of Produto)()
+        Dim prd = produto.SingleOrDefault(Function(p) p.Id = codigo)
+
+        If Not prd Is Nothing Then
+            id.Text = prd.Id
+            txt_nome.Text = prd.nome
+            txt_preco.Text = prd.preco
+
+            dc.SubmitChanges()
+        Else
+            MsgBox("Produto não localizado")
+        End If
+    End Sub
+
 End Class
