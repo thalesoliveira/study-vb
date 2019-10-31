@@ -1,0 +1,13 @@
+D:\projetos git\marcoratti\study-vb.net\adoNet\adoNet\bin\Debug\adoNet.exe.config
+D:\projetos git\marcoratti\study-vb.net\adoNet\adoNet\obj\Debug\adoNet.vbprojResolveAssemblyReference.cache
+D:\projetos git\marcoratti\study-vb.net\adoNet\adoNet\obj\Debug\adoNet.frmManterEstoque.resources
+D:\projetos git\marcoratti\study-vb.net\adoNet\adoNet\obj\Debug\adoNet.Resources.resources
+D:\projetos git\marcoratti\study-vb.net\adoNet\adoNet\obj\Debug\adoNet.vbproj.GenerateResource.Cache
+D:\projetos git\marcoratti\study-vb.net\adoNet\adoNet\obj\Debug\adoNet.xml
+D:\projetos git\marcoratti\study-vb.net\adoNet\adoNet\bin\Debug\Estoque.mdf
+D:\projetos git\marcoratti\study-vb.net\adoNet\adoNet\bin\Debug\Estoque_log.ldf
+D:\projetos git\marcoratti\study-vb.net\adoNet\adoNet\bin\Debug\adoNet.exe
+D:\projetos git\marcoratti\study-vb.net\adoNet\adoNet\bin\Debug\adoNet.pdb
+D:\projetos git\marcoratti\study-vb.net\adoNet\adoNet\bin\Debug\adoNet.xml
+D:\projetos git\marcoratti\study-vb.net\adoNet\adoNet\obj\Debug\adoNet.exe
+D:\projetos git\marcoratti\study-vb.net\adoNet\adoNet\obj\Debug\adoNet.pdb
