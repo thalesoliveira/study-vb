@@ -43,7 +43,7 @@ Namespace DAL
         End Function
 
         Public Function selectProdutoByID(ByVal id As Integer) As Produto
-            Dim sql As String = "SelecionaProdutoPorID"
+            Dim sql As String = "SELECT * FROM estoque WHERE id = @id"
             Dim conn As MySqlConnection = New MySqlConnection(_connectionString)
             Dim produto As New DTO.Produto
 
