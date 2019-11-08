@@ -27,5 +27,28 @@ adoNet
 Represents a strongly typed in-memory cache of data.
 </summary>
 </member>
+<member name="M:adoNet.DAO.ProdutoDAO.listarProdutos">
+ <summary>
+ 
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:adoNet.DAO.ProdutoDAO.incluirProduto(adoNet.DTO.Produto)">
+ <summary>
+ 
+ </summary>
+</member>
+<member name="M:adoNet.DAO.ProdutoDAO.alterarProduto(adoNet.DTO.Produto)">
+ <summary>
+ 
+ </summary>
+ <param name="Produto"></param>
+</member>
+<member name="M:adoNet.DAO.ProdutoDAO.excluirProduto(adoNet.DTO.Produto)">
+ <summary>
+ 
+ </summary>
+ <param name="Produto"></param>
+</member>
 </members>
 </doc>

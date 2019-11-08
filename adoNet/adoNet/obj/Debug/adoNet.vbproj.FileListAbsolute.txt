@@ -11,3 +11,4 @@ D:\projetos git\marcoratti\study-vb.net\adoNet\adoNet\bin\Debug\adoNet.pdb
 D:\projetos git\marcoratti\study-vb.net\adoNet\adoNet\bin\Debug\adoNet.xml
 D:\projetos git\marcoratti\study-vb.net\adoNet\adoNet\obj\Debug\adoNet.exe
 D:\projetos git\marcoratti\study-vb.net\adoNet\adoNet\obj\Debug\adoNet.pdb
+D:\projetos git\marcoratti\study-vb.net\adoNet\adoNet\obj\Debug\adoNet.Form2.resources

@@ -32,8 +32,8 @@ Partial Class frmManterEstoque
         Me.btnNovo = New System.Windows.Forms.Button()
         Me.btnAlterar = New System.Windows.Forms.Button()
         Me.btnExcluir = New System.Windows.Forms.Button()
-        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.gdvProdutos = New System.Windows.Forms.DataGridView()
+        CType(Me.gdvProdutos, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'lblID
@@ -121,21 +121,21 @@ Partial Class frmManterEstoque
         Me.btnExcluir.Text = "EXCLUIR"
         Me.btnExcluir.UseVisualStyleBackColor = True
         '
-        'DataGridView1
+        'gdvProdutos
         '
-        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Location = New System.Drawing.Point(48, 239)
-        Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.RowTemplate.Height = 24
-        Me.DataGridView1.Size = New System.Drawing.Size(516, 240)
-        Me.DataGridView1.TabIndex = 10
+        Me.gdvProdutos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.gdvProdutos.Location = New System.Drawing.Point(48, 239)
+        Me.gdvProdutos.Name = "gdvProdutos"
+        Me.gdvProdutos.RowTemplate.Height = 24
+        Me.gdvProdutos.Size = New System.Drawing.Size(516, 240)
+        Me.gdvProdutos.TabIndex = 10
         '
         'frmManterEstoque
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(611, 513)
-        Me.Controls.Add(Me.DataGridView1)
+        Me.Controls.Add(Me.gdvProdutos)
         Me.Controls.Add(Me.btnExcluir)
         Me.Controls.Add(Me.btnAlterar)
         Me.Controls.Add(Me.btnNovo)
@@ -148,7 +148,7 @@ Partial Class frmManterEstoque
         Me.Controls.Add(Me.lblID)
         Me.Name = "frmManterEstoque"
         Me.Text = "Manter Estoque"
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.gdvProdutos, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -164,5 +164,5 @@ Partial Class frmManterEstoque
     Friend WithEvents btnNovo As Button
     Friend WithEvents btnAlterar As Button
     Protected WithEvents btnExcluir As Button
-    Friend WithEvents DataGridView1 As DataGridView
+    Friend WithEvents gdvProdutos As DataGridView
 End Class
