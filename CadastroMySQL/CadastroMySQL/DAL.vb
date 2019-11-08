@@ -7,13 +7,15 @@ Namespace DAL
     Public Class ProdutoDAL
 
         Public _connectionString As String
-
+        Public _providerName As String
 
         Public Sub New()
-            Dim teste = ConfigurationManager.ConnectionStrings("MySQLConnectionString").ConnectionString
-            _connectionString = teste
-
-
+            Try
+                _connectionString = ConfigurationManager.ConnectionStrings("MySQLConnectionString").ConnectionString
+                _providerName = ConfigurationManager.ConnectionStrings("MySQLConnectionString").ProviderName
+            Catch ex As Exception
+                Throw New Exception("Erro ao acessar a string de conexão.")
+            End Try
         End Sub
 
         Public Function listarProdutos() As DataTable
