@@ -8,7 +8,7 @@ Namespace BLL
         Public Function selecionaProdutos() As DataTable
             Try
                 produtoDAL = New ProdutoDAL
-                Return produtoDAL.selectProdutos
+                Return produtoDAL.listarProdutos()
             Catch ex As Exception
                 Throw ex
             End Try

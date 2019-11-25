@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" namespace="hibernateProject.domain" assembly="hibernateProject">
+  <class  name="domain.funcionario, domain" table="funcionario">
+    <id name ="codigo" type ="Int32" column ="codigo">
+      <generator class ="assigned"/>
+    </id>
+    <property name ="nome" type ="String" column ="nome" length ="50"/>
+    <property name ="salario" type ="Decimal" column ="salario" />
+  </class>
+</hibernate-mapping>

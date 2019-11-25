@@ -11,7 +11,7 @@ Public Class Form1
     Private Sub btnExibir_Click(sender As Object, e As EventArgs) Handles btnExibir.Click
         Try
             produtoBLL = New BLL.ProdutoBLL
-            grvEstoque.DataSource = produtoBLL.selecionaProdutos
+            grvEstoque.DataSource = produtoBLL.selecionaProdutos()
         Catch ex As Exception
             MsgBox(ex.Message)
         End Try

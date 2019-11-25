@@ -49,8 +49,6 @@ Namespace DAL
 
             Try
                 Dim cmd As MySqlCommand = New MySqlCommand(sql, conn)
-
-                cmd.CommandType = CommandType.StoredProcedure
                 cmd.Parameters.Add(New MySqlParameter("id", id))
                 conn.Open()
 
