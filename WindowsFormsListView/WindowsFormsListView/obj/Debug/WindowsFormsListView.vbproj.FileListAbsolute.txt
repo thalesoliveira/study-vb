@@ -1,0 +1,11 @@
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsListView\WindowsFormsListView\bin\Debug\WindowsFormsListView.exe.config
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsListView\WindowsFormsListView\bin\Debug\WindowsFormsListView.exe
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsListView\WindowsFormsListView\bin\Debug\WindowsFormsListView.pdb
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsListView\WindowsFormsListView\bin\Debug\WindowsFormsListView.xml
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsListView\WindowsFormsListView\obj\Debug\WindowsFormsListView.vbprojResolveAssemblyReference.cache
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsListView\WindowsFormsListView\obj\Debug\WindowsFormsListView.Form1.resources
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsListView\WindowsFormsListView\obj\Debug\WindowsFormsListView.Resources.resources
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsListView\WindowsFormsListView\obj\Debug\WindowsFormsListView.vbproj.GenerateResource.Cache
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsListView\WindowsFormsListView\obj\Debug\WindowsFormsListView.exe
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsListView\WindowsFormsListView\obj\Debug\WindowsFormsListView.xml
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsListView\WindowsFormsListView\obj\Debug\WindowsFormsListView.pdb
