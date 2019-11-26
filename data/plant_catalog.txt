@@ -1,4 +1,0 @@
-COMMON, BOTANICAL, ZONE, LIGHT, PRICE, AVAILABILITY
-Bloodroot, Sanguinaria canadensis, 4, Mostly Shady, $2.44, 031599
-Columbine, Aquilegia canadensi, 3, Mostly Shady, $9.37, 030699
-Marsh Marigold, Caltha palustris, 4, Mostly Sunny, $6.81, 051799

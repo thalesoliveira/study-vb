@@ -1,9 +1,0 @@
-D:\projetos git\marcoratti\study-vb.net\AcessoDadosGenerico\DAL\bin\Debug\DAL.dll
-D:\projetos git\marcoratti\study-vb.net\AcessoDadosGenerico\DAL\bin\Debug\DAL.pdb
-D:\projetos git\marcoratti\study-vb.net\AcessoDadosGenerico\DAL\bin\Debug\DAL.xml
-D:\projetos git\marcoratti\study-vb.net\AcessoDadosGenerico\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
-D:\projetos git\marcoratti\study-vb.net\AcessoDadosGenerico\DAL\obj\Debug\DAL.Resources.resources
-D:\projetos git\marcoratti\study-vb.net\AcessoDadosGenerico\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
-D:\projetos git\marcoratti\study-vb.net\AcessoDadosGenerico\DAL\obj\Debug\DAL.dll
-D:\projetos git\marcoratti\study-vb.net\AcessoDadosGenerico\DAL\obj\Debug\DAL.xml
-D:\projetos git\marcoratti\study-vb.net\AcessoDadosGenerico\DAL\obj\Debug\DAL.pdb
