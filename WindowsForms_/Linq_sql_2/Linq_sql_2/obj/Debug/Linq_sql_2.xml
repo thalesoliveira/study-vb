@@ -1,0 +1,856 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Linq_sql_2
+</name>
+</assembly>
+<members>
+<member name="T:Linq_sql_2.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Linq_sql_2.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Linq_sql_2.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CategoriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CustomerCustomerDemoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CustomerDemographicsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CustomersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.EmployeesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.EmployeeTerritoriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Order_DetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.OrdersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.ProductsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.RegionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.ShippersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.SuppliersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.TerritoriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Alphabetical_list_of_productsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Category_Sales_for_1997DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Current_Product_ListDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Customer_and_Suppliers_by_CityDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.InvoicesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Order_Details_ExtendedDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Order_SubtotalsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Orders_QryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Product_Sales_for_1997DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Products_Above_Average_PriceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Products_by_CategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Quarterly_OrdersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Sales_by_CategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Sales_Totals_by_AmountDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Summary_of_Sales_by_QuarterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Summary_of_Sales_by_YearDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CustOrderHistDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CustOrdersDetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CustOrdersOrdersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Employee_Sales_by_CountryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Proc_Categories_CountAllDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Proc_Categories_GetAllDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Proc_Categories_SelectDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Sales_by_YearDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.SalesByCategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Ten_Most_Expensive_ProductsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CategoriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CustomerCustomerDemoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CustomerDemographicsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CustomersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.EmployeesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.EmployeeTerritoriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Order_DetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.OrdersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.ProductsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.RegionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.ShippersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.SuppliersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.TerritoriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Alphabetical_list_of_productsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Category_Sales_for_1997Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Current_Product_ListRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Customer_and_Suppliers_by_CityRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.InvoicesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Order_Details_ExtendedRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Order_SubtotalsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Orders_QryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Product_Sales_for_1997Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Products_Above_Average_PriceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Products_by_CategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Quarterly_OrdersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Sales_by_CategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Sales_Totals_by_AmountRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Summary_of_Sales_by_QuarterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Summary_of_Sales_by_YearRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CustOrderHistRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CustOrdersDetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CustOrdersOrdersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Employee_Sales_by_CountryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Proc_Categories_CountAllRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Proc_Categories_GetAllRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Proc_Categories_SelectRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Sales_by_YearRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.SalesByCategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Ten_Most_Expensive_ProductsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CategoriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CustomerCustomerDemoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CustomerDemographicsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CustomersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.EmployeesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.EmployeeTerritoriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Order_DetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.OrdersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.ProductsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.RegionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.ShippersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.SuppliersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.TerritoriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Alphabetical_list_of_productsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Category_Sales_for_1997RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Current_Product_ListRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Customer_and_Suppliers_by_CityRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.InvoicesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Order_Details_ExtendedRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Order_SubtotalsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Orders_QryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Product_Sales_for_1997RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Products_Above_Average_PriceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Products_by_CategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Quarterly_OrdersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Sales_by_CategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Sales_Totals_by_AmountRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Summary_of_Sales_by_QuarterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Summary_of_Sales_by_YearRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CustOrderHistRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CustOrdersDetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.CustOrdersOrdersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Employee_Sales_by_CountryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Proc_Categories_CountAllRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Proc_Categories_GetAllRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Proc_Categories_SelectRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Sales_by_YearRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.SalesByCategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSet.Ten_Most_Expensive_ProductsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.CategoriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.CustomerCustomerDemoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.CustomerDemographicsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.CustomersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.EmployeesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.EmployeeTerritoriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Order_DetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.OrdersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.ProductsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.RegionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.ShippersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.SuppliersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.TerritoriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Alphabetical_list_of_productsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Category_Sales_for_1997TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Current_Product_ListTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Customer_and_Suppliers_by_CityTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.InvoicesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Order_Details_ExtendedTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Order_SubtotalsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Orders_QryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Product_Sales_for_1997TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Products_Above_Average_PriceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Products_by_CategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Quarterly_OrdersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Sales_by_CategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Sales_Totals_by_AmountTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Summary_of_Sales_by_QuarterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Summary_of_Sales_by_YearTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.CustOrderHistTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.CustOrdersDetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.CustOrdersOrdersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Employee_Sales_by_CountryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Proc_Categories_CountAllTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Proc_Categories_GetAllTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Proc_Categories_SelectTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Sales_by_YearTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.SalesByCategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.Ten_Most_Expensive_ProductsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Linq_sql_2.northwndDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Linq_sql_2.northwndDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Linq_sql_2.northwndDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Linq_sql_2.northwndDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Linq_sql_2.northwndDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Linq_sql_2.northwndDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Linq_sql_2.northwndDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Linq_sql_2.northwndDataSetTableAdapters.TableAdapterManager.UpdateAll(Linq_sql_2.northwndDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Linq_sql_2.northwndDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,11 @@
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsSaveDialog\WindowsFormsSaveDialog\bin\Debug\WindowsFormsSaveDialog.exe.config
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsSaveDialog\WindowsFormsSaveDialog\bin\Debug\WindowsFormsSaveDialog.exe
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsSaveDialog\WindowsFormsSaveDialog\bin\Debug\WindowsFormsSaveDialog.pdb
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsSaveDialog\WindowsFormsSaveDialog\bin\Debug\WindowsFormsSaveDialog.xml
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsSaveDialog\WindowsFormsSaveDialog\obj\Debug\WindowsFormsSaveDialog.vbprojResolveAssemblyReference.cache
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsSaveDialog\WindowsFormsSaveDialog\obj\Debug\WindowsFormsSaveDialog.Form1.resources
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsSaveDialog\WindowsFormsSaveDialog\obj\Debug\WindowsFormsSaveDialog.Resources.resources
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsSaveDialog\WindowsFormsSaveDialog\obj\Debug\WindowsFormsSaveDialog.vbproj.GenerateResource.Cache
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsSaveDialog\WindowsFormsSaveDialog\obj\Debug\WindowsFormsSaveDialog.exe
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsSaveDialog\WindowsFormsSaveDialog\obj\Debug\WindowsFormsSaveDialog.xml
+D:\projetos git\marcoratti\study-vb.net\WindowsFormsSaveDialog\WindowsFormsSaveDialog\obj\Debug\WindowsFormsSaveDialog.pdb

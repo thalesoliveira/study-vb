@@ -1,0 +1,13 @@
+D:\projetos git\marcoratti\study-vb.net\Linq_sql_2\Linq_sql_2\bin\Debug\Linq_sql_2.exe.config
+D:\projetos git\marcoratti\study-vb.net\Linq_sql_2\Linq_sql_2\bin\Debug\northwnd.mdf
+D:\projetos git\marcoratti\study-vb.net\Linq_sql_2\Linq_sql_2\bin\Debug\northwnd_log.ldf
+D:\projetos git\marcoratti\study-vb.net\Linq_sql_2\Linq_sql_2\bin\Debug\Linq_sql_2.exe
+D:\projetos git\marcoratti\study-vb.net\Linq_sql_2\Linq_sql_2\bin\Debug\Linq_sql_2.pdb
+D:\projetos git\marcoratti\study-vb.net\Linq_sql_2\Linq_sql_2\bin\Debug\Linq_sql_2.xml
+D:\projetos git\marcoratti\study-vb.net\Linq_sql_2\Linq_sql_2\obj\Debug\Linq_sql_2.vbprojResolveAssemblyReference.cache
+D:\projetos git\marcoratti\study-vb.net\Linq_sql_2\Linq_sql_2\obj\Debug\Linq_sql_2.Form1.resources
+D:\projetos git\marcoratti\study-vb.net\Linq_sql_2\Linq_sql_2\obj\Debug\Linq_sql_2.Resources.resources
+D:\projetos git\marcoratti\study-vb.net\Linq_sql_2\Linq_sql_2\obj\Debug\Linq_sql_2.vbproj.GenerateResource.Cache
+D:\projetos git\marcoratti\study-vb.net\Linq_sql_2\Linq_sql_2\obj\Debug\Linq_sql_2.exe
+D:\projetos git\marcoratti\study-vb.net\Linq_sql_2\Linq_sql_2\obj\Debug\Linq_sql_2.xml
+D:\projetos git\marcoratti\study-vb.net\Linq_sql_2\Linq_sql_2\obj\Debug\Linq_sql_2.pdb

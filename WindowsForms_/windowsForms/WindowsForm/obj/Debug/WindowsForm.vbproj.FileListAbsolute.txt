@@ -1,0 +1,49 @@
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe.config
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\bin\Debug\WindowsForm.pdb
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\bin\Debug\WindowsForm.xml
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\obj\Debug\WindowsForm.vbprojResolveAssemblyReference.cache
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Form1.resources
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Resources.resources
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\obj\Debug\WindowsForm.vbproj.GenerateResource.Cache
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\obj\Debug\WindowsForm.exe
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\obj\Debug\WindowsForm.xml
+C:\Users\Ikhon\Desktop\marcoratti\WindowsForm\WindowsForm\obj\Debug\WindowsForm.pdb
+D:\projetos git\marcoratti\windowsForms\WindowsForm\obj\Debug\WindowsForm.vbprojResolveAssemblyReference.cache
+D:\projetos git\marcoratti\windowsForms\WindowsForm\obj\Debug\WindowsForm.Resources.resources
+D:\projetos git\marcoratti\windowsForms\WindowsForm\obj\Debug\WindowsForm.vbproj.GenerateResource.Cache
+D:\projetos git\marcoratti\windowsForms\WindowsForm\obj\Debug\WindowsForm.SplashScreen1.resources
+D:\projetos git\marcoratti\windowsForms\WindowsForm\bin\Debug\Calculadora.exe.config
+D:\projetos git\marcoratti\windowsForms\WindowsForm\bin\Debug\Calculadora.exe
+D:\projetos git\marcoratti\windowsForms\WindowsForm\bin\Debug\Calculadora.pdb
+D:\projetos git\marcoratti\windowsForms\WindowsForm\bin\Debug\Calculadora.xml
+D:\projetos git\marcoratti\windowsForms\WindowsForm\obj\Debug\Calculadora.exe
+D:\projetos git\marcoratti\windowsForms\WindowsForm\obj\Debug\Calculadora.xml
+D:\projetos git\marcoratti\windowsForms\WindowsForm\obj\Debug\Calculadora.pdb
+D:\projetos git\marcoratti\windowsForms\WindowsForm\obj\Debug\WindowsForm.Calculadora.resources
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\bin\Debug\Calculadora.exe.config
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\Calculadora.exe
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\Calculadora.xml
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\Calculadora.pdb
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\bin\Debug\Calculadora.exe
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\bin\Debug\Calculadora.pdb
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\bin\Debug\Calculadora.xml
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\WindowsForm.vbprojResolveAssemblyReference.cache
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\WindowsForm.Calculadora.resources
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\WindowsForm.Resources.resources
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\WindowsForm.SplashScreen1.resources
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\WindowsForm.Tabuada.resources
+C:\Users\mileto\Desktop\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\WindowsForm.vbproj.GenerateResource.Cache
+D:\projetos git\marcoratti\study-vb.net\windowsForms\WindowsForm\bin\Debug\Calculadora.exe.config
+D:\projetos git\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\Calculadora.exe
+D:\projetos git\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\Calculadora.xml
+D:\projetos git\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\Calculadora.pdb
+D:\projetos git\marcoratti\study-vb.net\windowsForms\WindowsForm\bin\Debug\Calculadora.exe
+D:\projetos git\marcoratti\study-vb.net\windowsForms\WindowsForm\bin\Debug\Calculadora.pdb
+D:\projetos git\marcoratti\study-vb.net\windowsForms\WindowsForm\bin\Debug\Calculadora.xml
+D:\projetos git\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\WindowsForm.vbprojResolveAssemblyReference.cache
+D:\projetos git\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\WindowsForm.Calculadora.resources
+D:\projetos git\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\WindowsForm.Resources.resources
+D:\projetos git\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\WindowsForm.SplashScreen1.resources
+D:\projetos git\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\WindowsForm.Tabuada.resources
+D:\projetos git\marcoratti\study-vb.net\windowsForms\WindowsForm\obj\Debug\WindowsForm.vbproj.GenerateResource.Cache
