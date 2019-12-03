@@ -1,0 +1,11 @@
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsSpliterContainer\WindowsFormsSpliterContainer\bin\Debug\WindowsFormsSpliterContainer.exe.config
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsSpliterContainer\WindowsFormsSpliterContainer\bin\Debug\WindowsFormsSpliterContainer.exe
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsSpliterContainer\WindowsFormsSpliterContainer\bin\Debug\WindowsFormsSpliterContainer.pdb
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsSpliterContainer\WindowsFormsSpliterContainer\bin\Debug\WindowsFormsSpliterContainer.xml
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsSpliterContainer\WindowsFormsSpliterContainer\obj\Debug\WindowsFormsSpliterContainer.vbprojResolveAssemblyReference.cache
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsSpliterContainer\WindowsFormsSpliterContainer\obj\Debug\WindowsFormsSpliterContainer.FormularioSpliterContainer.resources
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsSpliterContainer\WindowsFormsSpliterContainer\obj\Debug\WindowsFormsSpliterContainer.Resources.resources
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsSpliterContainer\WindowsFormsSpliterContainer\obj\Debug\WindowsFormsSpliterContainer.vbproj.GenerateResource.Cache
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsSpliterContainer\WindowsFormsSpliterContainer\obj\Debug\WindowsFormsSpliterContainer.exe
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsSpliterContainer\WindowsFormsSpliterContainer\obj\Debug\WindowsFormsSpliterContainer.xml
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsSpliterContainer\WindowsFormsSpliterContainer\obj\Debug\WindowsFormsSpliterContainer.pdb

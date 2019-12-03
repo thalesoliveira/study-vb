@@ -1,0 +1,13 @@
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTabControl\WindowsFormsTabControl\bin\Debug\WindowsFormsTabControl.exe.config
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTabControl\WindowsFormsTabControl\obj\Debug\WindowsFormsTabControl.vbprojResolveAssemblyReference.cache
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTabControl\WindowsFormsTabControl\obj\Debug\WindowsFormsTabControl.FormularioTabControl.resources
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTabControl\WindowsFormsTabControl\obj\Debug\WindowsFormsTabControl.Resources.resources
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTabControl\WindowsFormsTabControl\obj\Debug\WindowsFormsTabControl.vbproj.GenerateResource.Cache
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTabControl\WindowsFormsTabControl\bin\Debug\northwind.mdf
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTabControl\WindowsFormsTabControl\bin\Debug\northwind_log.ldf
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTabControl\WindowsFormsTabControl\bin\Debug\WindowsFormsTabControl.exe
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTabControl\WindowsFormsTabControl\bin\Debug\WindowsFormsTabControl.pdb
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTabControl\WindowsFormsTabControl\bin\Debug\WindowsFormsTabControl.xml
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTabControl\WindowsFormsTabControl\obj\Debug\WindowsFormsTabControl.exe
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTabControl\WindowsFormsTabControl\obj\Debug\WindowsFormsTabControl.xml
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTabControl\WindowsFormsTabControl\obj\Debug\WindowsFormsTabControl.pdb
