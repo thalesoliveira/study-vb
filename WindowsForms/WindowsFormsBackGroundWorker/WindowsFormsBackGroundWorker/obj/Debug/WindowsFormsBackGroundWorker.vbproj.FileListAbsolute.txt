@@ -1,0 +1,11 @@
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsBackGroundWorker\WindowsFormsBackGroundWorker\bin\Debug\WindowsFormsBackGroundWorker.exe.config
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsBackGroundWorker\WindowsFormsBackGroundWorker\bin\Debug\WindowsFormsBackGroundWorker.exe
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsBackGroundWorker\WindowsFormsBackGroundWorker\bin\Debug\WindowsFormsBackGroundWorker.pdb
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsBackGroundWorker\WindowsFormsBackGroundWorker\bin\Debug\WindowsFormsBackGroundWorker.xml
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsBackGroundWorker\WindowsFormsBackGroundWorker\obj\Debug\WindowsFormsBackGroundWorker.vbprojResolveAssemblyReference.cache
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsBackGroundWorker\WindowsFormsBackGroundWorker\obj\Debug\WindowsFormsBackGroundWorker.Form1.resources
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsBackGroundWorker\WindowsFormsBackGroundWorker\obj\Debug\WindowsFormsBackGroundWorker.Resources.resources
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsBackGroundWorker\WindowsFormsBackGroundWorker\obj\Debug\WindowsFormsBackGroundWorker.vbproj.GenerateResource.Cache
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsBackGroundWorker\WindowsFormsBackGroundWorker\obj\Debug\WindowsFormsBackGroundWorker.exe
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsBackGroundWorker\WindowsFormsBackGroundWorker\obj\Debug\WindowsFormsBackGroundWorker.xml
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsBackGroundWorker\WindowsFormsBackGroundWorker\obj\Debug\WindowsFormsBackGroundWorker.pdb
