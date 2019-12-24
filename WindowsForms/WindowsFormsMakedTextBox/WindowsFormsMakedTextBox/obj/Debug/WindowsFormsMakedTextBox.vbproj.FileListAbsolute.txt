@@ -1,0 +1,11 @@
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsMakedTextBox\WindowsFormsMakedTextBox\bin\Debug\WindowsFormsMakedTextBox.exe.config
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsMakedTextBox\WindowsFormsMakedTextBox\bin\Debug\WindowsFormsMakedTextBox.exe
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsMakedTextBox\WindowsFormsMakedTextBox\bin\Debug\WindowsFormsMakedTextBox.pdb
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsMakedTextBox\WindowsFormsMakedTextBox\bin\Debug\WindowsFormsMakedTextBox.xml
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsMakedTextBox\WindowsFormsMakedTextBox\obj\Debug\WindowsFormsMakedTextBox.vbprojResolveAssemblyReference.cache
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsMakedTextBox\WindowsFormsMakedTextBox\obj\Debug\WindowsFormsMakedTextBox.Form1.resources
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsMakedTextBox\WindowsFormsMakedTextBox\obj\Debug\WindowsFormsMakedTextBox.Resources.resources
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsMakedTextBox\WindowsFormsMakedTextBox\obj\Debug\WindowsFormsMakedTextBox.vbproj.GenerateResource.Cache
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsMakedTextBox\WindowsFormsMakedTextBox\obj\Debug\WindowsFormsMakedTextBox.exe
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsMakedTextBox\WindowsFormsMakedTextBox\obj\Debug\WindowsFormsMakedTextBox.xml
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsMakedTextBox\WindowsFormsMakedTextBox\obj\Debug\WindowsFormsMakedTextBox.pdb

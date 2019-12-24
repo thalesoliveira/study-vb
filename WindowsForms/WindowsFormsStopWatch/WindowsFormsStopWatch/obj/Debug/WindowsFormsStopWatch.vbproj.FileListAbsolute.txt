@@ -1,0 +1,11 @@
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsStopWatch\WindowsFormsStopWatch\bin\Debug\WindowsFormsStopWatch.exe.config
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsStopWatch\WindowsFormsStopWatch\bin\Debug\WindowsFormsStopWatch.exe
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsStopWatch\WindowsFormsStopWatch\bin\Debug\WindowsFormsStopWatch.pdb
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsStopWatch\WindowsFormsStopWatch\bin\Debug\WindowsFormsStopWatch.xml
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsStopWatch\WindowsFormsStopWatch\obj\Debug\WindowsFormsStopWatch.vbprojResolveAssemblyReference.cache
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsStopWatch\WindowsFormsStopWatch\obj\Debug\WindowsFormsStopWatch.Form1.resources
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsStopWatch\WindowsFormsStopWatch\obj\Debug\WindowsFormsStopWatch.Resources.resources
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsStopWatch\WindowsFormsStopWatch\obj\Debug\WindowsFormsStopWatch.vbproj.GenerateResource.Cache
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsStopWatch\WindowsFormsStopWatch\obj\Debug\WindowsFormsStopWatch.exe
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsStopWatch\WindowsFormsStopWatch\obj\Debug\WindowsFormsStopWatch.xml
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsStopWatch\WindowsFormsStopWatch\obj\Debug\WindowsFormsStopWatch.pdb

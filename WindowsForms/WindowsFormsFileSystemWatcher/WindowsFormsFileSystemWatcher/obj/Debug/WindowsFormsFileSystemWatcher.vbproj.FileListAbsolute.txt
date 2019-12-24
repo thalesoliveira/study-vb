@@ -1,0 +1,11 @@
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsFileSystemWatcher\WindowsFormsFileSystemWatcher\bin\Debug\WindowsFormsFileSystemWatcher.exe.config
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsFileSystemWatcher\WindowsFormsFileSystemWatcher\bin\Debug\WindowsFormsFileSystemWatcher.exe
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsFileSystemWatcher\WindowsFormsFileSystemWatcher\bin\Debug\WindowsFormsFileSystemWatcher.pdb
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsFileSystemWatcher\WindowsFormsFileSystemWatcher\bin\Debug\WindowsFormsFileSystemWatcher.xml
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsFileSystemWatcher\WindowsFormsFileSystemWatcher\obj\Debug\WindowsFormsFileSystemWatcher.vbprojResolveAssemblyReference.cache
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsFileSystemWatcher\WindowsFormsFileSystemWatcher\obj\Debug\WindowsFormsFileSystemWatcher.Form1.resources
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsFileSystemWatcher\WindowsFormsFileSystemWatcher\obj\Debug\WindowsFormsFileSystemWatcher.Resources.resources
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsFileSystemWatcher\WindowsFormsFileSystemWatcher\obj\Debug\WindowsFormsFileSystemWatcher.vbproj.GenerateResource.Cache
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsFileSystemWatcher\WindowsFormsFileSystemWatcher\obj\Debug\WindowsFormsFileSystemWatcher.exe
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsFileSystemWatcher\WindowsFormsFileSystemWatcher\obj\Debug\WindowsFormsFileSystemWatcher.xml
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsFileSystemWatcher\WindowsFormsFileSystemWatcher\obj\Debug\WindowsFormsFileSystemWatcher.pdb

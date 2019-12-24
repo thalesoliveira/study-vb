@@ -1,0 +1,11 @@
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTimer\WindowsFormsTimer\bin\Debug\WindowsFormsTimer.exe.config
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTimer\WindowsFormsTimer\bin\Debug\WindowsFormsTimer.exe
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTimer\WindowsFormsTimer\bin\Debug\WindowsFormsTimer.pdb
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTimer\WindowsFormsTimer\bin\Debug\WindowsFormsTimer.xml
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTimer\WindowsFormsTimer\obj\Debug\WindowsFormsTimer.vbprojResolveAssemblyReference.cache
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTimer\WindowsFormsTimer\obj\Debug\WindowsFormsTimer.Form1.resources
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTimer\WindowsFormsTimer\obj\Debug\WindowsFormsTimer.Resources.resources
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTimer\WindowsFormsTimer\obj\Debug\WindowsFormsTimer.vbproj.GenerateResource.Cache
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTimer\WindowsFormsTimer\obj\Debug\WindowsFormsTimer.exe
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTimer\WindowsFormsTimer\obj\Debug\WindowsFormsTimer.xml
+D:\projetos git\marcoratti\study-vb\WindowsForms\WindowsFormsTimer\WindowsFormsTimer\obj\Debug\WindowsFormsTimer.pdb
